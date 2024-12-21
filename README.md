@@ -2,7 +2,7 @@
 
 My implementation of tetr!s using the [SDL2 library](https://www.libsdl.org/)
 
-![img/screenshot.jpg]
+![screenshot](img/screenshot.jpg)
 
 ## Dependencies
 
