@@ -17,13 +17,11 @@ It is expected that these libraries will be installed one directory above the pr
 |__SDL2
 |  |__include
 |  |__lib
-|
-|__SDL2_image
-|  |__...
-|
-|__SDL2_mixer
-|
-|__SDL2_ttf
+|     |__x64
+|        |__SDL2.dll
+|        |__SDL2_image.dll
+|        |__SDL2_mixer.dll
+|        |__SDL2_ttf.dll
 |
 |__FallingBlockGame-SDL
 |  |__src
